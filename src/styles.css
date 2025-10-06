@@ -1,0 +1,21 @@
+ * {
+    /*border: 1px solid red; /*!important*/
+    font-family :'Work Sans', sans-serif;
+}
+
+.pizza-bg {
+  opacity: 0.5;
+  height: 300px;
+  object-fit: cover;
+}
+
+.aside-sticky {
+  position: sticky;
+  top: 0;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+    .btn-info {
+      background-color: rgb(255, 0, 221) !important;   /* surcharge */
+    }
